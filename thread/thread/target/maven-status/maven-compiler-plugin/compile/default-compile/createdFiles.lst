@@ -1,0 +1,5 @@
+com\microservice\thread\repo\UserRepo.class
+com\microservice\thread\service\UserService.class
+com\microservice\thread\controller\UserController.class
+com\microservice\thread\entity\UserEntity.class
+com\microservice\thread\ThreadApplication.class
